@@ -1,0 +1,8 @@
+c:\users\pc\documents\visual studio 2017\Projects\MoveCursor\MoveCursor\bin\Release\MoveCursor.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\MoveCursor\MoveCursor\bin\Release\MoveCursor.exe
+c:\users\pc\documents\visual studio 2017\Projects\MoveCursor\MoveCursor\bin\Release\MoveCursor.pdb
+c:\users\pc\documents\visual studio 2017\Projects\MoveCursor\MoveCursor\obj\Release\MoveCursor.Form1.resources
+c:\users\pc\documents\visual studio 2017\Projects\MoveCursor\MoveCursor\obj\Release\MoveCursor.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2017\Projects\MoveCursor\MoveCursor\obj\Release\MoveCursor.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2017\Projects\MoveCursor\MoveCursor\obj\Release\MoveCursor.exe
+c:\users\pc\documents\visual studio 2017\Projects\MoveCursor\MoveCursor\obj\Release\MoveCursor.pdb
